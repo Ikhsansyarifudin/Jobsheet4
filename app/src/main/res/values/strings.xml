@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Jobsheet4_Ikhsan</string>
+        <string name="MHS1">Feri Safaat Rifai</string>
+        <string name="NIM1">STE202202657</string>
+        <string name="MHS2">Dian Nanda Elisma</string>
+        <string name="NIM2">STE202202880</string>
+        <string name="MHS3">Ikhsan Syarifudin</string>
+        <string name="NIM3">STE202202686</string>
+        <string name="MHS4">Dila Trian Lestari</string>
+        <string name="NIM4">STE202202832</string>
+        <string name="MHS5">Veri Alfandi</string>
+        <string name="NIM5">STE202203089</string>
+</resources>
